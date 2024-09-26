@@ -1,0 +1,2 @@
+export CLARIFAI_APP_ID=label-understanding
+export CLARIFAI_USER_ID=schwarz
